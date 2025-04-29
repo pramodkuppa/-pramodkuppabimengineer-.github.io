@@ -1,2 +1,37 @@
 # -pramodkuppabimengineer-.github.io
 BIM ENGINEER,BIM COORDINATOR
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header, section, footer {
+  padding: 20px;
+  margin: 20px;
+  background: #fff;
+  border-radius: 5px;
+}
+
+header {
+  background: #333;
+  color: #fff;
+}
+
+header h1 {
+  margin: 0;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
